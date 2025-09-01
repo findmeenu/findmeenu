@@ -2,8 +2,8 @@ Hi !
 
   Welcome to my GitHub! I'm passionate about software development and always eager to explore new challenges and opportunities.
 
-- 👀 I’m interested in a wide range of technologies, from backend development to front-end design, as well as everything in between. I’m especially keen on building scalable, efficient software solutions.
-- 🌱 I’m currently learning new frameworks, programming languages, and tools, with a focus on Java, Python, and web development. I believe in continuous growth and am excited to take on new tech stacks.
+- 👀 I’m interested in a wide range of technologies, programming languages, and tools, with a focus on Java, Python, and web development, new frameworks. I’m especially keen on building scalable, efficient software solutions.
+- 🌱 I’m currently learning backend development to front-end design, as well as everything in between. I believe in continuous growth and am excited to take on new tech stacks.
 - 💞️ I’m looking to collaborate on projects, internships, or full-time opportunities in the tech industry. Whether it's building innovative software or solving real-world problems, I’m open to contributing and learning from passionate teams.
 - 📫 How to reach me: Feel free to connect with me! You can reach me via email at findmeenu@gmail.com.
 - 😄 Pronouns: She/Her
