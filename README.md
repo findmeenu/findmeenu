@@ -21,7 +21,7 @@ Focused on system architecture, protocol design, and reliability.
 - Scalable system design patterns 
 - Modern web technologies
   
-- ⚡ Fun fact: I enjoy breaking down complex system problems and designing practical solutions that actually work in the real world.
+  ⚡ Fun fact: I enjoy breaking down complex system problems and designing practical solutions that actually work in the real world.
   
 🤝 Looking For
 Internships / Graduate roles where I can contribute to building scalable systems and learn from experienced teams.
