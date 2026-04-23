@@ -17,10 +17,10 @@ Designed a real-time smart home platform using TCP sockets and NDJSON protocol, 
 Focused on system architecture, protocol design, and reliability.
 
 🌱 Currently Learning
-- Edge-cloud-Hybrid architectures 
-- Scalable system design patterns  
-- Modern web technologies  
-
+- Edge-cloud-Hybrid architectures
+- Scalable system design patterns 
+- Modern web technologies
+  
 - ⚡ Fun fact: I enjoy breaking down complex system problems and designing practical solutions that actually work in the real world.
   
 🤝 Looking For
